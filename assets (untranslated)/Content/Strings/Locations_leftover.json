@@ -1,20 +1,6 @@
 {
-    "AnimalHouse_Incubator_RemoveEgg_Question": "Yakin mau ambil telurnya?",
-    "BuildableLocation_CantUpgrade_SomeoneInside": "Tidak bisa meningkatkan bangunan saat ada yang di dalam.",
-    "BuildableLocation_CantUpgrade_IncorrectBuildingType": "Tipe Bangunan Tidak Cocok",
-    "CommunityCenter_AreaRestored": "{0} sudah diperbaiki!",
-    "Desert_BusArrived": "Baiklah, nak. Kembalilah ke bis kalau sudah mau pulang.",
-    "Bus_NoDriver": "Kau harus menunggu Pam datang sebelum naik bis.",
-    "AnimalShop_Marnie_Trash": "Kebanyakan kardus bekas pizza.",
-    "RemoveChest": "Kamu membuang peti kosong.",
-    "Club_QiCoins_NotEnoughMoney": "Error: Uang tidak cukup.",
-    "BoatTunnel_BuyTicket": "Beli tiket seharga {0}g?",
-    "ScienceHouse_Renovation_AddCornerStairs": "Tambah Tangga Pojok/Bangun tangga dari kamar menuju ruangan pojok./Pilih area untuk renovasi.",
-    "ScienceHouse_Renovation_RemoveCornerStairs": "Hapus Tanga Pojok/Hilangkan tangga dari kamar menuju ruangan pojok./Pilih area untuk renovasi.",
-    "ScienceHouse_Renovation_AddStairs": "Tambah Tangga/Bangun tangga di salah satu lokasi/Pilih area untuk renovasi.",
-    "ScienceHouse_Renovation_RemoveStairs": "Hapus Tangga/Hilangkan salah satu tangga/Pilih area untuk renovasi.",
-    "IslandFarmhouse_Drawer": "Kau membuka laci dan menemukan jurnal jelek...",
-    "NutHint_SouthBuried": "{0} terkubur di selatan...",
-    "SandDuggy": "Sand Duggy",
-    "TravelingMerchant": "Traveling Merchant"
+    "ElliottHouse_ElliottBook_Filled": "'{0}' oleh Elliott ... Didedikasikan kepada {1}",
+    "ScienceHouse_Carpenter_NotEnoughWood1": "Maaf... Uangmu memang cukup, tapi aku juga butuh 450 potong kayu.",
+    "ScienceHouse_Carpenter_NotEnoughWood2": "Maaf... Uangmu memang cukup, tapi aku juga butuh 150 potong kayu keras.",
+    "ScienceHouse_Carpenter_NotEnoughWood3": "Maaf... Uangmu memang cukup, tapi aku juga butuh 950 potong kayu."
 }

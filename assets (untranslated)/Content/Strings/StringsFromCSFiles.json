@@ -1,11 +1,13 @@
 {
-    "UnnamedItem": "Unnamed Item",
-    "MultiplePetBowls_watered": "#$e#I also filled the pets' water bowls.",
-    "MapPage.cs.11080_ExtendedHours": "Open 9:00AM to 5:00PM",
-    "PurchaseAnimalsMenu.ChooseLocation": "Where do you want to manage animals?",
-    "FarmComputer_Intro_Farm": "{0} Farm Analysis:",
-    "FarmComputer_Intro_NamedLocation": "{0} Analysis:",
-    "FarmComputer_Intro_Generic": "Location Analysis:",
-    "KeyToTheTown_desc": "Allows access to all buildings in town, at any time of day.",
-    "Attack_Miss": "Miss"
+    "AdoptPet": "Will you adopt this {0}?",
+    "SocialPage_Relationship_Single_Female": "(single)",
+    "SocialPage_Relationship_Single_Male": "(single)",
+    "SocialPage_Relationship_Husband": "(husband)",
+    "SocialPage_Relationship_Wife": "(wife)",
+    "SocialPage_Relationship_Boyfriend": "(boyfriend)",
+    "SocialPage_Relationship_Girlfriend": "(girlfriend)",
+    "SocialPage_Relationship_ExHusband": "(ex-husband)",
+    "SocialPage_Relationship_ExWife": "(ex-wife)",
+    "SocialPage_Relationship_Housemate_Female": "(housemate)",
+    "SocialPage_Relationship_Housemate_Male": "(housemate)"
 }

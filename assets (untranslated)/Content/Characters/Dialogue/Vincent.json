@@ -1,10 +1,3 @@
 {
-    "AcceptBirthdayGift_Positive": "Is that a birthday present? Can I open it now?#$b#Oh, wow! This is exactly what I wanted! Yayayaya!$h",
-    "AcceptBirthdayGift_Negative": "A birthday present? Oh... this isn't very fun.$s",
-    "AcceptGift_(O)StardropTea": "Wow! It's so sweet! Mmmmm....",
-    "AcceptGift_(TR)FrogEgg": "*Squish* *squish* ... Ewww! Can I have it? Can I have it? Yaaay!$h",
-    "GreenRain": "Mom! I wanna go outside and play!%noturn",
-    "GreenRain_2": "%Vincent is covered in moss.",
-    "AcceptGift_alcohol_item": "*sniff*... what is this? It smells awful... Mommmm!!!$s",
-    "married_Sam": "Don't take my Sammy away!$s"
+    "AcceptGift_Negative_alcohol_item": "*sniff*... what is this? It smells awful... Mommmm!!!$s"
 }

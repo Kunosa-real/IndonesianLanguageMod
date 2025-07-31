@@ -1,17 +1,4 @@
 {
-    "AcceptGift_(O)StardropTea": "This means a lot to me, @. I'll save it for a quiet day in the tent. Thank you!",
-    "AcceptGift_(O)Book_Trash": "I don't usually read books... But this one is right up my 'alley'... Thank you!$h",
-    "AcceptGift_category_greens": "That's a good find! I'm always happy when eating wild food. Thank you.",
-    "married": "I thought about tying the knot, once. But now, I'm happily married to the wind rustling in the leaves, and the frogs croaking under the silver moon.",
-    "GreenRain": "All these strange trees will be gone tomorrow... it's one of the mysteries of nature.",
-    "GreenRainFinished": "How did the moss harvest go? Hehe... My bed is a lot softer now.",
-    "GreenRain_2": "I've already gathered enough moss for the entire year. How about you?",
-    "AcceptGift_(O)774": "Let me see... it looks perfect. You're a good student, @.$h",
-    "AcceptGift_(O)166": "No, thank you. I have no desire for money... In fact, I think it's cursed. [166]",
-    "AcceptGift_category_fish": "Ah, that looks fresh. I'll be eating good tonight!$h",
-    "mineArea_80": "Very few people have gone as deep into the mines as you have.",
-    "eventSeen_8357109": "The water here comes from glaciers high up in the mountains.#$e#I traveled to the source once, just to pay my respects to the water.",
-    "movieTheater": "Movie theater? Hmm... for me, the slow procession of nature is all the drama I need.",
-    "DumpsterDiveComment": "Find anything good?$h",
-    "winter_Mon4": "After you've truly unplugged from the modern way of life, you'll start to really enjoy the simple things... like the sun, a ripe fruit, or finding a stick with the exact shape you were looking for."
+    "AcceptGift_Positive_category_greens": "That's a good find! I'm always happy when eating wild food. Thank you.",
+    "AcceptGift_Positive_category_fish": "Ah, that looks fresh. I'll be eating good tonight!$h"
 }

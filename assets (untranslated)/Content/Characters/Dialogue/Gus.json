@@ -1,14 +1,3 @@
 {
-    "AcceptGift_(O)StardropTea": "Oh wow, thank you! I'm tempted to drink all of it, but I'm going to save some for the saloon. I bet I could make an interesting cocktail with this!",
-    "AcceptGift_category_cooking": "*sniff*... Ah. Exquisite cuisine. You know what I like, @.$h",
-    "GreenRain": "I saw the weather report last night. It really gave me a scare!$s#$e#Are there monsters out there? What's happening?",
-    "GreenRainFinished": "I'm glad that's over. Running the saloon is enough to worry about, I don't need exotic weather in my life!",
-    "GreenRain_2": "*sniff*... These rains have a particular smell. Have you noticed? Almost like freshly minced herbs...",
-    "cropMatured_256": "Lewis tells me your tomatoes have ripened. That's great news!#$b#...Just imagine what the culinary world would be like without tomatoes...",
-    "eventSeen_502969": "It's important to me that people can eat healthy, delicious meals. Unfortunately, in today's world, that's not so easy for everyone.",
-    "married": "Hey @, just want to say that I'm happy for you and %spouse.",
-    "dating_Emily_memory_oneweek": "Emily has a real pep in her step lately... I wonder why? *wink*",
-    "divorced_once": "Hey, I'm sorry to hear about the break-up...$s#$e#If you need company, you're always welcome at the Saloon.",
-    "divorced_twice": "Another failed marriage? Well, it happens. Guess I'll be seeing you at the Saloon more often...$s",
-    "eventSeen_3206194": "Hey, you really pulled through with those eggs. The omelet turned out great, thanks to you!"
+    "AcceptGift_Positive_category_cooking": "*sniff*... Ah. Exquisite cuisine. You know what I like, @.$h"
 }

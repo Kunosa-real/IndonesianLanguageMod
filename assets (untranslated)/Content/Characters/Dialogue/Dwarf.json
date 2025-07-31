@@ -1,13 +1,3 @@
 {
-    "AcceptBirthdayGift_Positive": "Oh! I've read about this tradition... it's a 'birthday gift', isn't it? Hmm, very interesting...",
-    "AcceptBirthdayGift_Negative": "Oh! I've read about this tradition... it's a 'birthday gift', isn't it?#$b#So, is it part of the tradition to give out garbage like this?",
-    "GreenRain": "I can't see the color green very well.#$b#I guess it's part of living underground for so long.",
-    "AcceptGift_(O)StardropTea": "*sniff*... is this milk? *sip*... hmm... tastes good.",
-    "AcceptGift_milk_item": "Ah, 'milk'... *slurp*... How interesting. Remind me, again... where exactly does this juice come from?#$b#...!!! *sploosh*",
-    "firstVisit_IslandNorth": "If you enter the volcano on Ginger Island, you might encounter others like me. Don't be alarmed! We're peaceful with humans.",
-    "mineArea_121": "You know, you're pretty good at mining, for a human.",
-    "fishCaught_158": "Oh, you caught a Stonefish? I know them very well. We sometimes keep them as pets.",
-    "fishCaught_161": "Oh, you caught an Ice Pip? They're energetic little fish, despite the frigid environment they live in. My people avoid the frozen areas, though... too cold!",
-    "fishCaught_162": "Oh, you caught a Lava Eel? Very good! Lava Eel fishing is a big part of our culture. They're considered a delicacy!",
-    "firstVisit_Caldera": "You found the legendary Dwarvish Forge? Incredible... I've never seen it, myself.#$e#The machinery is so old, none of my people understand how it works. But it's definitely Dwarvish technology."
+    "AcceptGift_Neutral_milk_item": "Ah, 'milk'... *slurp*... How interesting. Remind me, again... where exactly does this juice come from?#$b#...!!! *sploosh*"
 }

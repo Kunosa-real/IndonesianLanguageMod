@@ -1,5 +1,4 @@
 {
-    "MineCart_DestinationWithPrice": "{0} ({1}g)",
-    "BuyTicket": "Buy a ticket for {0}g?",
-    "Backwoods_MonsterGrave": "Abigail took a life to save mine...#I'll never forget that."
+    "ScienceHouse_Carpenter_NotEnoughWood": "Sorry... You have the money, but I also need {0} pieces of wood.",
+    "ScienceHouse_Carpenter_NotEnoughHardwood": "Sorry... You have the money, but I also need {0} pieces of hardwood."
 }
