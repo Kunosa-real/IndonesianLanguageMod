@@ -1,13 +1,13 @@
 {
-    "AdoptPet": "Will you adopt this {0}?",
-    "SocialPage_Relationship_Single_Female": "(single)",
-    "SocialPage_Relationship_Single_Male": "(single)",
-    "SocialPage_Relationship_Husband": "(husband)",
-    "SocialPage_Relationship_Wife": "(wife)",
-    "SocialPage_Relationship_Boyfriend": "(boyfriend)",
-    "SocialPage_Relationship_Girlfriend": "(girlfriend)",
-    "SocialPage_Relationship_ExHusband": "(ex-husband)",
-    "SocialPage_Relationship_ExWife": "(ex-wife)",
-    "SocialPage_Relationship_Housemate_Female": "(housemate)",
-    "SocialPage_Relationship_Housemate_Male": "(housemate)"
+    "AdoptPet": "Apakah kamu akan mengadopsi {0} ini?",
+    "SocialPage_Relationship_Single_Female": "(lajang)",
+    "SocialPage_Relationship_Single_Male": "(lajang)",
+    "SocialPage_Relationship_Husband": "(suami)",
+    "SocialPage_Relationship_Wife": "(istri)",
+    "SocialPage_Relationship_Boyfriend": "(pacar)",
+    "SocialPage_Relationship_Girlfriend": "(pacar)",
+    "SocialPage_Relationship_ExHusband": "(mantan suami)",
+    "SocialPage_Relationship_ExWife": "(mantan istri)",
+    "SocialPage_Relationship_Housemate_Female": "(teman serumah)",
+    "SocialPage_Relationship_Housemate_Male": "(teman serumah)"
 }
