@@ -1,0 +1,22 @@
+{
+    "RandomNegativeItemNoun": "sampah#jijik#kotor#busuk#burik",
+    "RandomPositiveAdjective_Child": "keren#seru#mantap#bagus#cocok#super#hebat",
+    "RandomPositiveAdjective_AdultMale": "menarik#seru#mantap#seru#bagus#hebat",
+    "RandomPositiveAdjective_AdultFemale": "hebat#menakjubkan#bagus#ajaib#luar-biasa#indah#mengagumkan#fantastis",
+    "RandomPositiveAdjective_PlaceOrEvent": "hebat#menakjubkan#bagus#ajaib#luar-biasa#indah#mengagumkan#fantastis",
+    "RandomDeliciousAdjective": "lezat#enak#maknyus#mantap#kenyang#sedap#gurih#nikmat",
+    "RandomDeliciousAdjective_Child": "enyak",
+    "RandomNegativeFoodAdjective_Child": "jijik",
+    "RandomNegativeFoodAdjective_Polite": "...menarik#...aneh#...unik#...tidak-biasa",
+    "RandomNegativeFoodAdjective": "jijik#kotor#memuakkan#hina#bikin-sakit-perut#bikin-mual#parah#jijik#bikin-mual#busuk#tidak-enak#bau-busuk",
+    "RandomSlightlyPositiveFoodAdjective": "lumayan#enak#biasa",
+    "ChildTerm_Male": "anak",
+    "ChildTerm_Female": "anak",
+    "Pronoun_Male": "dia",
+    "Pronoun_Female": "dia",
+    "QuestionDialogue_Yes": "Iya",
+    "QuestionDialogue_No": "Tidak",
+    "GenericPlayerTerm": "petani",
+    "Possessive_Pronoun_Male": "nya",
+    "Possessive_Pronoun_Female": "nya"
+}

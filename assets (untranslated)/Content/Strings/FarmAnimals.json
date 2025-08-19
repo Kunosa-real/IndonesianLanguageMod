@@ -1,0 +1,16 @@
+{
+    "DisplayType_Chicken_Blue": "Ayam Biru",
+    "DisplayType_Chicken_Brown": "Ayam Coklat",
+    "DisplayType_Chicken_Golden": "Ayam Emas",
+    "DisplayType_Chicken_White": "Ayam Putih",
+    "DisplayType_Chicken_Void": "Ayam Void",
+    "DisplayType_Cow_Brown": "Sapi coklat",
+    "DisplayType_Cow_White": "Sapi Putih",
+    "DisplayType_Dinosaur": "Dinosaurus",
+    "DisplayType_Duck": "Bebek",
+    "DisplayType_Goat": "Kambing",
+    "DisplayType_Ostrich": "Burung unta",
+    "DisplayType_Pig": "Babi",
+    "DisplayType_Rabbit": "Kelinci",
+    "DisplayType_Sheep": "Domba"
+}

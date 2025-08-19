@@ -1,0 +1,17 @@
+{
+    "Marlon_DF_0_Name": "Perburuan Monster",
+    "Marlon_DF_0_Text": "Turun ke Skull Cavern dan bunuh 10 {Monster:LocalizedName}.",
+    "Marlon_DF_0_Objective": "Bunuh 10 {Monster:LocalizedName}.",
+    "Marlon_DF_Monster_0_LocalizedName": "Serpents",
+    "Marlon_DF_Monster_1_LocalizedName": "Purple Slimes",
+    "Marlon_DF_Monster_2_LocalizedName": "Mummies",
+    "Marlon_DF_1_Name": "Penjelajahan Dalam",
+    "Marlon_DF_1_Text": "Capai level 30 di Skull Cavern.",
+    "Marlon_DF_1_Objective": "Capai level 30 di Skull Cavern.",
+    "Marlon_DF_2_Name": "Perburuan Harta",
+    "Marlon_DF_2_Text": "Kumpulkan {Treasure:Count} {Treasure:LocalizedName} dari Skull Cavern.",
+    "Marlon_DF_2_Objective": "Kumpulkan {Treasure:Count} {Treasure:LocalizedName}.",
+    "Marlon_DF_Item_0_LocalizedName": "Omni Geodes",
+    "Marlon_DF_Item_1_LocalizedName": "potong Bijih Iridium",
+    "Marlon_DF_Item_2_LocalizedName": "Prismatic Shards"
+}
