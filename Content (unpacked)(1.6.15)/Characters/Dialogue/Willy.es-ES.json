@@ -38,7 +38,7 @@
   "Sat": "Si la escena pesquera local se animase un poco, podría aumentar las existencias de mi tienda.",
   "Sat8": "¿Qué tal te va la vida de pesca?#$e#Yo intento pescar todo lo que puedo, pero no es fácil cuando tienes una tienda que llevar.",
   "Sun": "Si te compras una caña de pescar de calidad, podrás colocarle cebo y aparejos al sedal.#$b#El cebo hace que los peces piquen antes. El aparejo te facilita el trabajo cuando recoges sedal.#$e#Hay varios tipos de aparejo, con distintas ventajas. Suelen ser bastante endebles, así que no te sorprendas si se rompen al cabo de un rato.",
-  "Sun10": "¡Anda, si es ${el capitán^la capitana}$ @!$h#$e#Te haría un descuento en el cebo si me lo pudiera permitir.$s",
+  "Sun10": "¡kamu, si es ${el capitán^la capitana}$ @!$h#$e#Te haría un descuento en el cebo si me lo pudiera permitir.$s",
   "Fair_Judging": "No tengo muchas esperanzas de ganar... Los peces tienen buen aspecto, pero no huelen precisamente bien...$s",
   "Fair_Judged": "Vaya, qué puntuación tan baja. Supongo que el alcalde Lewis no es muy amigo del pescado. En fin...$s"
 }
