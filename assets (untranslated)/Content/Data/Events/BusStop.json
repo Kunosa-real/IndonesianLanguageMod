@@ -1,3 +1,0 @@
-{
-    "520702/a 11 23 11 24/t 600 1600/z spring/z fall/z summer": "winter_day_ambient/-1000 -1000/farmer 10 23 1 Krobus 26 23 3/viewport 24 23 clamp true/addQuest 31/skippable/move Krobus -2 0 3/pause 1000/emote Krobus 16/jump Krobus/pause 500/speed Krobus 8/move Krobus 20 0 1 true/move farmer 2 0 1 true/move false/playSound shadowpeep/warp Krobus -1000 -1000/pause 500/emote farmer 8/pause 1000/end"
-}
